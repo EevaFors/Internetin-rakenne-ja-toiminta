@@ -5,7 +5,7 @@ Internetin rakenne ja toiminta|Eeva
 ICANN, DNS, Fonet, IP-osoitteet|Marcus, Miikka
 Kaapeleiden ja satelliittien sijainti ja toiminta|Joonatan, Kalle
 Wikimedian toiminta Internetissä / Wikisuomi | Eeva
-Tekoälyt | Joona
+Tekoälyt | Tuomas
 Retittimien ja palvelimien toiminta ja omistajat | Janna ja Didi
 Pilvipalvelut, Azure, Google, Amazon | Joona
 Wilman toiminta | Miro
